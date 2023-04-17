@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Animali
 {
-    internal interface INuotante
+    public interface INuotante
     {
         public void Nuota();
     }
