@@ -9,7 +9,7 @@ namespace Animali
     public abstract class Animale
     {
 
-        public void dormi()
+        public void Dormi()
         {
             Console.WriteLine("ZZZZZ");
         }
